@@ -12,7 +12,8 @@
 <div align="center"> 
   <a href="https://instagram.com/eduardamarra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardagmarra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardamarra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eduardamarra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://marra.in"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
 </div>
 <br />
 <div align="center">
@@ -39,6 +40,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
 ![Ant Design](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=antdesign)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 
 **Utils**
 
@@ -55,3 +57,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![NodeJS](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js&logoColor=007ACC)
