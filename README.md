@@ -17,10 +17,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/eduardamarra">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardamarra&theme=dracula" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardamarra&theme=dracula" />
 </a>
 <a href="https://github.com/eduardamarra">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardamarra&layout=compact&theme=dracula&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardamarra&layout=compact&theme=dracula&langs_count=8&card_width=320" />
 </a>
 </div>
 <hr/>
