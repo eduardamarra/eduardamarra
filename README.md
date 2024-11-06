@@ -57,6 +57,8 @@
 **Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=phpstorm&logoColor=9F50FF)
+![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm&logoColor=40A4F5)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![NodeJS](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=figma)
+![NodeJS](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js&logoColor=white)
